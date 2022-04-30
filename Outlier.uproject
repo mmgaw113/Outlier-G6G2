@@ -5,9 +5,9 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "FileMan",
+			"Name": "VictoryBPLibrary",
 			"Enabled": true,
-			"MarketplaceURL": "https://github.com/anhuntz/fileman"
+			"MarketplaceURL": "http://www.ue4code.com"
 		}
 	]
 }
